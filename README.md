@@ -31,7 +31,7 @@ fitness_booking/
 ### 1. Clone the repo / download zip
 
 ```bash
-git clone https://github.com/your-username/fitness-booking-api.git
+git clone https://github.com/rubankumarsankar/fitness_booking_api.git
 cd fitness-booking-api
 ```
 
